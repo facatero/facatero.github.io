@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://facatero.github.io/sitemap.html.gz
+Sitemap: https://facatero.github.io/app/sitemap.html.gz
+Sitemap: https://facatero.github.io/assets/sitemap.html.gz
+Sitemap: https://facatero.github.io/css/sitemap.html.gz
+Sitemap: https://facatero.github.io/data/sitemap.html.gz
+Sitemap: https://facatero.github.io/includes/sitemap.html.gz
+Sitemap: https://facatero.github.io/item/sitemap.html.gz
+Sitemap: https://facatero.github.io/src/sitemap.html.gz
